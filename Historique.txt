@@ -1,0 +1,53 @@
+
+
+20 November 2022 15:56:58
+nabil dibej
+Matricule n° mat
+Date de naissance 31/01/1967
+Date de debut de travail 23/05/1990
+---
+Date Retraite 23/06/2023
+periode de travail 8 Jours , 8 Mois Et 33 Ans 
+
+----------------------------------------
+
+20 November 2022 15:57:35
+WXB WB
+Matricule n° WFB
+Date de naissance 01/01/2000
+Date de debut de travail 01/01/2000
+---
+Date Retraite 29/01/2057
+periode de travail 30 Jours , 0 Mois Et 57 Ans 
+Pourcentage de Salaire  0
+----------------------------------------
+20 November 2022 15:59:58
+nabil dibej
+Matricule n° mat
+Date de naissance 31/01/1967
+Date de debut de travail 23/05/1990
+---
+Date Retraite 23/06/2023
+periode de travail 8 Jours , 8 Mois Et 33 Ans 
+Pourcentage de Salaire  78
+----------------------------------------
+20 November 2022 16:00:29
+nabil dibej
+Matricule n° mat
+Date de naissance 31/01/1967
+Date de debut de travail 23/05/1991
+---
+Date Retraite 23/06/2023
+periode de travail 8 Jours , 8 Mois Et 32 Ans 
+Pourcentage de Salaire  75
+----------------------------------------
+20 November 2022 16:10:38
+qsdgf qsdg
+Matricule n° qsgd
+Date de naissance 31/01/1967
+Date de debut de travail 23/05/1990
+---
+Date Retraite 23/06/2023
+periode de travail 8 Jours , 8 Mois Et 33 Ans 
+Pourcentage de Salaire  78%
+----------------------------------------
